@@ -1,0 +1,10 @@
+name: DreamSuggestions
+main: net.perfectdreams.dreamsuggestions.DreamSuggestions
+version: 1.0.0
+
+author: Tod
+
+softdepend:
+  - DreamCore
+
+api-version: 1.13
